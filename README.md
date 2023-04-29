@@ -3,7 +3,7 @@
   
 🌱 I’m currently learning React
 
-- 📫 How to reach me: taimanizar7@gmail.com
+📫 How to reach me: taimanizar7@gmail.com
   
   
 
