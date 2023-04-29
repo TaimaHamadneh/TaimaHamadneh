@@ -1,6 +1,7 @@
 ### <div align="center">I'm Taima Hamadneh, a computer engineering student at An Najah University👨‍💻 I aspire to be successful and build too many projects .🚀
 </div>  
   
+🌱 I’m currently learning React
 
 - 📫 How to reach me: taimanizar7@gmail.com
   
