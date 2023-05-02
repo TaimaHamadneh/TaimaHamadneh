@@ -5,7 +5,8 @@
 
 📫 How to reach me: taimanizar7@gmail.com
 
-<br/>  
+<br/> 
+
 ## Skills List  
 
 <table><tr><td valign="top" width="33%">
