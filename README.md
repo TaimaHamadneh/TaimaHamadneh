@@ -1,7 +1,7 @@
 ### <div align="center">I'm Taima Hamadneh, a computer engineering student @ NNU 👨‍💻 I am a web developer who has a passion for creating innovative and user-friendly applications. 🚀
 </div>  
 
-🌱 I’m currently learning ML
+
 
 📫 How to reach me: taimanizar7@gmail.com
 
