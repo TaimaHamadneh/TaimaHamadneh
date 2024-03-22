@@ -11,7 +11,6 @@
 ✨ Protfolio account: https://taimahamadneh.github.io/Portfolio/
 
 
-
 <br/> 
 
 ## Skills List  
