@@ -7,6 +7,11 @@
 
 📫 How to reach me: taimanizar7@gmail.com
 
+
+✨ Protfolio account: https://taimahamadneh.github.io/Portfolio/
+
+
+
 <br/> 
 
 ## Skills List  
