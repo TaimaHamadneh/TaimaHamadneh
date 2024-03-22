@@ -1,4 +1,4 @@
-### <div align="center"> I am a web developer who has a passion for creating innovative and user-friendly applications. 🚀💻 
+### <div align="center"> I am a web developer who has a passion for creating innovative and user-friendly applications. 💫💻 
 </div>  
 
 
