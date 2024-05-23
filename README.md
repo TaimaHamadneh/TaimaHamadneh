@@ -1,11 +1,11 @@
-### <div align="center"> I am a web developer who has a passion for creating innovative and user-friendly applications. 💫💻 
+### <div align="center"> I’m a computer Engineer , I'm passionate about technology and highly skilled developer how can work in groups effectively. 💫💻 
 </div>  
 
 
 ![leetcode](https://github.com/TaimaHamadneh/TaimaHamadneh/assets/98472054/b317c9a5-07ca-46f8-b19c-a717d9af9730) LeetCode account: https://leetcode.com/TaimaNizar/
 
 
-📫 How to reach me: taimanizar7@gmail.com
+📫 How to reach me: taimanizar45@gmail.com
 
 
 ✨ Protfolio account: https://taimahamadneh.github.io/Portfolio/
