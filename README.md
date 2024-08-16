@@ -4,7 +4,7 @@
 
 - 👋 I am Taima Hamadneh
 - 🔭 I am a computer Engineer 
-- 💁‍♂️  I am passionate about technology and highly skilled developer how can work in groups effectively.
+- 💁‍♂️  I am passionate about technology and highly skilled developer who can work in groups effectively.
 - 🌱 I am currently focusing on learning Backend development
 
 <br />
