@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hi%20there%20%F0%9F%91%8B&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=268bd2,b58900&height=280&section=header&text=Hi%20there%20%F0%9F%91%8B&fontSize=90&fontColor=657b83)
 
 <h1>About Me 📌</h1>
 
