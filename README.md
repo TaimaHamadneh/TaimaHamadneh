@@ -14,8 +14,8 @@
 </p>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=taimahamadneh&count_private=true&theme=solarized-light&hide_border=true" alt = "taimahamadneh's Contribution" width = 400 >
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=taimahamadneh&count_private=true&theme=solarized-light&hide_border=true" alt = "taimahamadneh's Rating" width = 400 >
+  <img src = "https://github-readme-stats.vercel.app/api?username=taimahamadneh&count_private=true&theme=solarized-light&hide_border=true" alt = "taimahamadneh's Contribution" width = 400 height = 200 >
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=taimahamadneh&count_private=true&theme=solarized-light&hide_border=true" alt = "taimahamadneh's Rating" width = 400  height = 200>
 
 </p>
 
