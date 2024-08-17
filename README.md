@@ -6,6 +6,7 @@
 - 🔭 I am a computer Engineer 
 - 💁‍♂️  I am passionate about technology and highly skilled developer who can work in groups effectively.
 - 🌱 I am currently focusing on learning Backend development
+- ✨ Protfolio: https://taimahamadneh.github.io/Portfolio/
 
 <br />
 
