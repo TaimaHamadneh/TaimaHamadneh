@@ -7,6 +7,10 @@
 - 💁‍♂️  I am passionate about technology and highly skilled developer who can work in groups effectively.
 - 🌱 I am currently focusing on learning Backend development
 - ✨ Protfolio: https://taimahamadneh.github.io/Portfolio/
+- ![leetcode](https://github.com/TaimaHamadneh/TaimaHamadneh/assets/98472054/b317c9a5-07ca-46f8-b19c-a717d9af9730) LeetCode account: https://leetcode.com/TaimaNizar/
+
+
+
 
 <br />
 
