@@ -19,7 +19,6 @@ I'm **Taima Hamadneh**, a passionate **Software Developer** who loves turning co
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=taimahamadneh&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&border_radius=15" width="400"/>
 </div>
 
-
 ---
 
 ## 🛠️ Skills
@@ -27,6 +26,18 @@ I'm **Taima Hamadneh**, a passionate **Software Developer** who loves turning co
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,cs,cpp,html,css,js,flutter,react,nodejs,sqlite,django,php,git,github,mongodb&theme=light" style="filter: hue-rotate(230deg) saturate(1.5);" />
 </div>
+
+---
+
+## 🐍 GitHub Contribution Snake  
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/taimahamadneh/taimahamadneh/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/taimahamadneh/taimahamadneh/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/taimahamadneh/taimahamadneh/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
 ---
 
@@ -45,5 +56,3 @@ I'm **Taima Hamadneh**, a passionate **Software Developer** who loves turning co
 >     code()
 >     learn()
 >     repeat()
-
-
