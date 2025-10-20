@@ -13,10 +13,10 @@ I'm **Taima Hamadneh**, a passionate **Software Developer** who loves turning co
 ## 🚀 Quick Overview  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=taimahamadneh&show_icons=true&theme=transparent&title_color=7F7FD5&icon_color=91EAE4&text_color=333&hide_border=true" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=taimahamadneh&theme=transparent&hide_border=true&ring=7F7FD5&fire=91EAE4&currStreakLabel=7F7FD5" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=taimahamadneh&show_icons=true&theme=midnight-purple&hide_border=true&border_radius=15" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=taimahamadneh&theme=midnight-purple&hide_border=true&border_radius=15" width="400"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=taimahamadneh&layout=compact&langs_count=8&theme=transparent&title_color=7F7FD5&text_color=333&hide_border=true" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=taimahamadneh&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&border_radius=15" width="400"/>
 </div>
 
 
