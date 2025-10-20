@@ -40,13 +40,6 @@ I'm **Taima Hamadneh**, a passionate **Software Developer** who loves turning co
 
 ---
 
-<!-- Worm animation -->
-<p align="center">
-  <img src="./worm.svg" alt="Worm walking on green lawn" width="780" />
-</p>
-
----
-
 ### ✨ Fun Touch
 ```bash
 > while (alive):
