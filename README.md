@@ -26,16 +26,7 @@ I'm **Taima Hamadneh**, a passionate **Software Developer** who loves turning co
 ## 🛠️ Skills
 
 <div align="center">
-
-### 💻 Programming Languages  
-<img src="https://skillicons.dev/icons?i=python,cpp,java,xml&theme=light" />
-
-### 🌐 Front-End & Back-End  
-<img src="https://skillicons.dev/icons?i=html,css,js,flutter,react,nodejs,sqlite,django,php&theme=light" />
-
-### 🧠 Systems & Databases  
-<img src="https://skillicons.dev/icons?i=git,github,phpstorm,mongodb&theme=light" />
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,python,java,cs,cpp,php,mysql,oracle,git,django,opencv&theme=light&perline=8" style="filter: hue-rotate(230deg) saturate(1.5);" />
 </div>
 
 
