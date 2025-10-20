@@ -31,13 +31,6 @@ I'm **Taima Hamadneh**, a passionate **Software Developer** who loves turning co
 
 ---
 
-## 🌍 Visitors
-<div align="center">
-  <img src="https://profile-counter.glitch.me/TaimaHamadneh/count.svg" />
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 <p align="center">
@@ -53,3 +46,9 @@ I'm **Taima Hamadneh**, a passionate **Software Developer** who loves turning co
 >     code()
 >     learn()
 >     repeat()
+
+---
+<!-- Worm animation -->
+<p align="center">
+  <img src="./worm.svg" alt="Worm walking on green lawn" width="780" />
+</p>
