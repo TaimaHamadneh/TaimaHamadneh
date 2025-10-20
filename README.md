@@ -32,7 +32,7 @@ I'm **Taima Hamadneh**, a passionate **Software Developer** who loves turning co
 
 ## 🐍 GitHub Contribution Snake
 
-![snake gif](https://github.com/TaimaHamadneh/TaimaHamadneh/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/TaimaHamadneh/TaimaHamadneh/blob/output/github-snake.svg)
 
 ---
 
