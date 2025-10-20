@@ -12,14 +12,19 @@ I'm **Taima Hamadneh**, a passionate **Software Developer** who loves turning co
 
 ## 🚀 Quick Overview  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=taimahamadneh&show_icons=true&count_private=true&theme=radical&hide_border=true" width="400" height="200" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=taimahamadneh&theme=radical&hide_border=true" width="400" height="200" />
-</p>
+<div align="center">
+  <img src="https://github.com/taimahamadneh/taimahamadneh/blob/main/assets/glass-bg.gif" width="100%" alt="background" />
+  
+  <table>
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=taimahamadneh&show_icons=true&theme=tokyonight&hide_border=true" width="400"/></td>
+      <td><img src="https://github-readme-streak-stats.herokuapp.com?user=taimahamadneh&theme=tokyonight&hide_border=true" width="400"/></td>
+    </tr>
+  </table>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=taimahamadneh&layout=compact&langs_count=8&theme=radical&hide_border=true" width="400" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=taimahamadneh&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" width="400" />
+</div>
+
 
 ---
 
