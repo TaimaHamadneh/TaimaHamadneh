@@ -26,22 +26,18 @@ I'm **Taima Hamadneh**, a passionate **Software Developer** who loves turning co
 ## 🛠️ Skills
 
 <div align="center">
-  <img src="https://img.shields.io/badge/HTML-0078D4?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-0078D4?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-0078D4?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-0078D4?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-0078D4?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-0078D4?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-0078D4?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-0078D4?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-0078D4?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-0078D4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-0078D4?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle-0078D4?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-0078D4?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-0078D4?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-0078D4?style=for-the-badge&logo=opencv&logoColor=white" />
+
+### 💻 Programming Languages  
+<img src="https://skillicons.dev/icons?i=python,cpp,java,xml&theme=light" />
+
+### 🌐 Front-End & Back-End  
+<img src="https://skillicons.dev/icons?i=html,css,js,flutter,react,nodejs,sqlite,django,php&theme=light" />
+
+### 🧠 Systems & Databases  
+<img src="https://skillicons.dev/icons?i=git,github,phpstorm,mongodb&theme=light" />
+
 </div>
+
 
 ---
 
