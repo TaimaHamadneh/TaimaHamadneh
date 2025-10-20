@@ -26,7 +26,8 @@ on:
 
       - main
 
-
+permissions:
+  contents: write
 
 jobs:
 
@@ -58,7 +59,7 @@ jobs:
 
           # GitHub username to generate the animation for
 
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: ${{ github.TaimaHamadneh }}
 
 
 
