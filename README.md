@@ -5,7 +5,7 @@
 ### 👋 Welcome to my GitHub space!
 I'm **Taima Hamadneh**, a passionate **Software Developer** who loves turning complex problems into elegant solutions.  
 
-✨ **Portfolio:** [taimahamadneh.github.io/Portfolio](https://taimahamadneh.github.io/Portfolio)  
+✨ **Portfolio:** https://taimahamdneh.vercel.app/ 
 💡 **LeetCode:** [leetcode.com/TaimaNizar](https://leetcode.com/TaimaNizar)
 
 ---
