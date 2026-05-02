@@ -60,6 +60,10 @@ I'm **Taima Hamadneh**, a passionate **Software Developer** who loves turning co
   
   <!-- Row 2 -->
   <tr>
+      <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50" height="50" alt="Docker" />
+      <br>Docker
+    </td>
      <td align="center" width="96">
       <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="50" height="50" alt="Git" />
       <br>Git
@@ -88,13 +92,14 @@ I'm **Taima Hamadneh**, a passionate **Software Developer** who loves turning co
       <img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50" alt="Tailwind" />
       <br>Tailwind
     </td>
+    
+  </tr>
+  <!-- Row 3 -->
+  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=flutter" width="50" height="50" alt="Flutter" />
       <br>Flutter
     </td>
-  </tr>
-  <!-- Row 3 -->
-  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=dotnet" width="50" height="50" alt="ASP.NET" />
       <br>ASP.NET
