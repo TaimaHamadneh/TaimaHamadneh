@@ -22,41 +22,62 @@ I'm **Taima Hamadneh**, a passionate **Software Developer** who loves turning co
 # 💻 My favorite tools and technologies
 
 <table align="center">
+  <!-- Row 1 -->
   <tr>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="50" height="50" alt="React" />
-      <br>React
+      <img src="https://skillicons.dev/icons?i=linux" width="50" height="50" alt="Linux" />
+      <br>Linux
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" height="50" alt="Python" />
-      <br>Python
+      <img src="https://skillicons.dev/icons?i=fastapi" width="50" height="50" alt="FastAPI" />
+      <br>FastAPI
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="50" height="50" alt="JavaScript" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="50" height="50" alt="C++" />
-      <br>C++
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50" height="50" alt="MySQL" />
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="50" height="50" alt="TypeScript" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="50" height="50" alt="GitHub" />
-      <br>GitHub
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50" height="50" alt="SQL" />
+      <br>SQL
     </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="50" height="50" alt="C#" />
       <br>C#
     </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="50" height="50" alt="React" />
+      <br>React
+    </td>
   </tr>
+  <!-- Row 2 -->
   <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" width="50" height="50" alt="HTML" />
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" width="50" height="50" alt="CSS" />
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="50" height="50" alt="JavaScript" />
+      <br>JS
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/knime/knime-original.svg" width="50" height="50" alt="Knime" />
+      <br>Knime
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=flutter" width="50" height="50" alt="Flutter" />
+      <br>Flutter
+    </td>
+  </tr>
+  <!-- Row 3 -->
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=dotnet" width="50" height="50" alt="ASP.NET" />
+      <br>ASP.NET
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" alt="Node.js" />
+      <br>Node.js
+    </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/django-icon.svg" width="50" height="50" alt="Django" />
       <br>Django
@@ -66,62 +87,27 @@ I'm **Taima Hamadneh**, a passionate **Software Developer** who loves turning co
       <br>Git
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="50" height="50" alt="HTML5" />
-      <br>HTML5
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="50" height="50" alt="GitHub" />
+      <br>GitHub
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="50" height="50" alt="CSS" />
-      <br>CSS
-    </td>
+  </tr>
+  <!-- Row 4 -->
+  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=bootstrap" width="50" height="50" alt="Bootstrap" />
       <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50" alt="Tailwind" />
-      <br>Tailwind
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" alt="Node.js" />
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50" alt="MongoDB" />
-      <br>MongoDB
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgres" width="50" height="50" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=php" width="50" height="50" alt="PHP" />
-      <br>PHP
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" alt="VS Code" />
-      <br>VS Code
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vue" width="50" height="50" alt="Vue" />
-      <br>Vue
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=figma" width="50" height="50" alt="Figma" />
       <br>Figma
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vercel" width="50" height="50" alt="Vercel" />
-      <br>Vercel
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" height="50" alt="Python" />
+      <br>Python
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=netlify" width="50" height="50" alt="Netlify" />
-      <br>Netlify
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=java" width="50" height="50" alt="Java" />
-      <br>Java
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="50" height="50" alt="C/C++" />
+      <br>C/C++
     </td>
   </tr>
 </table>
