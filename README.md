@@ -19,7 +19,7 @@ I'm **Taima Hamadneh**, a passionate **Software Developer** who loves turning co
 
 ---
 
-# 💻 My favorite tools and technologies
+# Tools and technologies
 
 <table align="center">
   <!-- Row 1 -->
@@ -60,9 +60,17 @@ I'm **Taima Hamadneh**, a passionate **Software Developer** who loves turning co
   
   <!-- Row 2 -->
   <tr>
-      <td align="center" width="96">
+    <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50" height="50" alt="Docker" />
       <br>Docker
+    </td>
+     <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="50" height="50" alt="Kubernetes" />
+      <br>Kubernetes
+    </td>
+     <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="50" height="50" alt="AWS" />
+      <br>AWS
     </td>
      <td align="center" width="96">
       <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="50" height="50" alt="Git" />
@@ -84,7 +92,10 @@ I'm **Taima Hamadneh**, a passionate **Software Developer** who loves turning co
       <img src="https://skillicons.dev/icons?i=css" width="50" height="50" alt="CSS" />
       <br>CSS
     </td>
-    <td align="center" width="96">
+  </tr>
+  <!-- Row 3 -->
+  <tr>
+     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=bootstrap" width="50" height="50" alt="Bootstrap" />
       <br>Bootstrap
     </td>
@@ -92,10 +103,6 @@ I'm **Taima Hamadneh**, a passionate **Software Developer** who loves turning co
       <img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50" alt="Tailwind" />
       <br>Tailwind
     </td>
-    
-  </tr>
-  <!-- Row 3 -->
-  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=flutter" width="50" height="50" alt="Flutter" />
       <br>Flutter
@@ -117,19 +124,21 @@ I'm **Taima Hamadneh**, a passionate **Software Developer** who loves turning co
       <br>PostgreSQL
     </td>
      <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" alt="VS Code" />
-      <br>VS Code
-    </td>
-     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=figma" width="50" height="50" alt="Figma" />
       <br>Figma
     </td>
-      <td align="center" width="96">
+
+  </tr>
+  <!-- Row 4 -->
+  <tr>
+     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" alt="VS Code" />
+      <br>VS Code
+    </td>
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=vercel" width="50" height="50" alt="Vercel" />
       <br>Vercel
     </td>
-  
-
   </tr>
 </table>
 
