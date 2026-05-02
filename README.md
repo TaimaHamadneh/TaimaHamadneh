@@ -56,14 +56,14 @@ I'm **Taima Hamadneh**, a passionate **Software Developer** who loves turning co
       <img src="https://techstack-generator.vercel.app/django-icon.svg" width="50" height="50" alt="Django" />
       <br>Django
     </td>
+     <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50" height="50" alt="Docker" />
+      <br>Docker
+    </td>
   </tr>
   
   <!-- Row 2 -->
   <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50" height="50" alt="Docker" />
-      <br>Docker
-    </td>
      <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="50" height="50" alt="Kubernetes" />
       <br>Kubernetes
@@ -92,13 +92,17 @@ I'm **Taima Hamadneh**, a passionate **Software Developer** who loves turning co
       <img src="https://skillicons.dev/icons?i=css" width="50" height="50" alt="CSS" />
       <br>CSS
     </td>
-  </tr>
-  <!-- Row 3 -->
-  <tr>
-     <td align="center" width="96">
+       <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vercel" width="50" height="50" alt="Vercel" />
+      <br>Vercel
+    </td>
+      <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=bootstrap" width="50" height="50" alt="Bootstrap" />
       <br>Bootstrap
     </td>
+  </tr>
+  <!-- Row 3 -->
+  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50" alt="Tailwind" />
       <br>Tailwind
@@ -127,19 +131,13 @@ I'm **Taima Hamadneh**, a passionate **Software Developer** who loves turning co
       <img src="https://skillicons.dev/icons?i=figma" width="50" height="50" alt="Figma" />
       <br>Figma
     </td>
-
-  </tr>
-  <!-- Row 4 -->
-  <tr>
-     <td align="center" width="96">
+      <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" alt="VS Code" />
       <br>VS Code
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vercel" width="50" height="50" alt="Vercel" />
-      <br>Vercel
-    </td>
+
   </tr>
+
 </table>
 
 <br><br>
