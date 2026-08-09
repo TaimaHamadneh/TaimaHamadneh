@@ -18,12 +18,10 @@ I'm **Taima Hamadneh**, a passionate **Software Developer** who loves turning co
 </div>
 
 ---
-
-# Tools and technologies
 # Tools and Technologies
 
 <table align="center">
-  <!-- Row 1: Languages -->
+  <!-- Row 1: Languages & Frontend -->
   <tr>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48" alt="JavaScript" />
@@ -47,16 +45,12 @@ I'm **Taima Hamadneh**, a passionate **Software Developer** who loves turning co
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-      <br>HTML5
+      <br>HTML
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
-      <br>CSS3
+      <br>CSS
     </td>
-  </tr>
-
-  <!-- Row 2: Frontend & Mobile -->
-  <tr>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" alt="React" />
       <br>React
@@ -65,6 +59,10 @@ I'm **Taima Hamadneh**, a passionate **Software Developer** who loves turning co
       <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
       <br>Flutter
     </td>
+  </tr>
+
+  <!-- Row 2: Frameworks, Styling & Backend -->
+  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
       <br>Tailwind
@@ -73,16 +71,6 @@ I'm **Taima Hamadneh**, a passionate **Software Developer** who loves turning co
       <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
       <br>Bootstrap
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-      <br>Figma
-    </td>
-    <td align="center" width="96"></td>
-    <td align="center" width="96"></td>
-  </tr>
-
-  <!-- Row 3: Backend & Databases -->
-  <tr>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/django-icon.svg" width="48" height="48" alt="Django" />
       <br>Django
@@ -113,7 +101,7 @@ I'm **Taima Hamadneh**, a passionate **Software Developer** who loves turning co
     </td>
   </tr>
 
-  <!-- Row 4: DevOps, Cloud & Tools -->
+  <!-- Row 3: DevOps, Cloud & Tools -->
   <tr>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48" height="48" alt="Docker" />
@@ -132,12 +120,20 @@ I'm **Taima Hamadneh**, a passionate **Software Developer** who loves turning co
       <br>Linux
     </td>
     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
+      <br>Vercel
+    </td>
+    <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" alt="GitHub" />
       <br>GitHub
     </td>
     <td align="center" width="96">
       <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
       <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+      <br>Figma
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
