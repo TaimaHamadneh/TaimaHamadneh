@@ -72,9 +72,10 @@ I'm **Taima Hamadneh**, a passionate **Software Developer** who loves turning co
       <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="50" height="50" alt="AWS" />
       <br>AWS
     </td>
+
      <td align="center" width="96">
-      <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="50" height="50" alt="Git" />
-      <br>Git
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="50" height="50" alt="Docker" />
+      <br>Docker
     </td>
      <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=linux" width="50" height="50" alt="Linux" />
@@ -134,6 +135,10 @@ I'm **Taima Hamadneh**, a passionate **Software Developer** who loves turning co
       <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" alt="VS Code" />
       <br>VS Code
+    </td>
+    <td align="center" width="96">
+      <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="50" height="50" alt="Git" />
+      <br>Git
     </td>
 
   </tr>
