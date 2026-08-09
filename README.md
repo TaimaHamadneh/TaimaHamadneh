@@ -74,34 +74,39 @@ I'm **Taima Hamadneh**, a passionate **Software Developer** who loves turning co
     </td>
 
      <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="50" height="50" alt="TypeScript" />
-      <br>TypeScript
-    </td> 
+  <img src="https://skillicons.dev/icons?i=typescript" width="50" height="50" alt="TypeScript" />
+  <br>TypeScript
+</td>
 
-     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=linux" width="50" height="50" alt="Linux" />
-      <br>Linux
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=fastapi" width="50" height="50" alt="FastAPI" />
-      <br>FastAPI
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="50" height="50" alt="HTML" />
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="50" height="50" alt="CSS" />
-      <br>CSS
-    </td>
-       <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vercel" width="50" height="50" alt="Vercel" />
-      <br>Vercel
-    </td>
-      <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="50" height="50" alt="Bootstrap" />
-      <br>Bootstrap
-    </td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=linux" width="50" height="50" alt="Linux" />
+  <br>Linux
+</td>
+
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=fastapi" width="50" height="50" alt="FastAPI" />
+  <br>FastAPI
+</td>
+
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=html" width="50" height="50" alt="HTML" />
+  <br>HTML
+</td>
+
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=css" width="50" height="50" alt="CSS" />
+  <br>CSS
+</td>
+
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=vercel" width="50" height="50" alt="Vercel" />
+  <br>Vercel
+</td>
+
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="50" height="50" alt="Bootstrap" />
+  <br>Bootstrap
+</td>
   </tr>
   <!-- Row 3 -->
   <tr>
