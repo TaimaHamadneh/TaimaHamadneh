@@ -74,9 +74,10 @@ I'm **Taima Hamadneh**, a passionate **Software Developer** who loves turning co
     </td>
 
      <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="50" height="50" alt="Docker" />
-      <br>Docker
-    </td>
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="50" height="50" alt="TypeScript" />
+      <br>TypeScript
+    </td> 
+
      <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=linux" width="50" height="50" alt="Linux" />
       <br>Linux
